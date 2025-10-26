@@ -2,7 +2,8 @@
 
 Compare Claude Sonnet 4.5 and GPT-4 Turbo responses side-by-side. Never ship AI hallucinations again.
 
-![Dual-Mind Demo](screenshot.png)
+![[Dual-Mind Demo](https://dual-mind.streamlit.app/)](<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/2409352f-a6b5-4c8d-84de-3d92fec88bf0" />
+)
 
 ## Why This Exists
 
@@ -132,4 +133,5 @@ venv/
 env/
 .env
 *.db-journal
+
 .DS_Store
